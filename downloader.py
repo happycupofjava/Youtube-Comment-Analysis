@@ -7,7 +7,7 @@
 
 import sys
 import time
-importjson
+import json
 import requests
 importargparse
 import lxml.html
